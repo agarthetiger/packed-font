@@ -1,2 +1,2 @@
-python .\create-font.py 'C:\Windows\Fonts\MesloLGLNerdFontMono-Regular.ttf' ..\fonts\digits-60\digits-60.json --chars 48-57,45-46,176 --size 78 --verbose
+python .\create-font.py 'C:\Windows\Fonts\MesloLGLNerdFontMono-Regular.ttf' ..\fonts\digits-60\digits-60.json --chars 48-57,45-46,176 --size 46 --verbose
 python .\pack-font.py ..\fonts\digits-60\digits-60.json

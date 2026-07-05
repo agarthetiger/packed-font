@@ -1,85 +1,85 @@
 {
     "Name": "digits-60.pf",
-    "Height": 60,
-    "Width": 48,
+    "Height": 37,
+    "Width": 32,
     "DefaultCharacter": ".",
     "Characters": [
         {
             "Code": "-",
-            "Width": 47,
-            "Height": 58,
+            "Width": 28,
+            "Height": 35,
             "Filename": "U045.bmp"
         },
         {
             "Code": ".",
-            "Width": 47,
-            "Height": 58,
+            "Width": 28,
+            "Height": 35,
             "Filename": "U046.bmp"
         },
         {
             "Code": "0",
-            "Width": 47,
-            "Height": 59,
+            "Width": 28,
+            "Height": 36,
             "Filename": "U048.bmp"
         },
         {
             "Code": "1",
-            "Width": 47,
-            "Height": 58,
+            "Width": 28,
+            "Height": 35,
             "Filename": "U049.bmp"
         },
         {
             "Code": "2",
-            "Width": 47,
-            "Height": 58,
+            "Width": 28,
+            "Height": 35,
             "Filename": "U050.bmp"
         },
         {
             "Code": "3",
-            "Width": 47,
-            "Height": 59,
+            "Width": 28,
+            "Height": 36,
             "Filename": "U051.bmp"
         },
         {
             "Code": "4",
-            "Width": 47,
-            "Height": 58,
+            "Width": 28,
+            "Height": 35,
             "Filename": "U052.bmp"
         },
         {
             "Code": "5",
-            "Width": 47,
-            "Height": 59,
+            "Width": 28,
+            "Height": 36,
             "Filename": "U053.bmp"
         },
         {
             "Code": "6",
-            "Width": 47,
-            "Height": 59,
+            "Width": 28,
+            "Height": 36,
             "Filename": "U054.bmp"
         },
         {
             "Code": "7",
-            "Width": 47,
-            "Height": 58,
+            "Width": 28,
+            "Height": 35,
             "Filename": "U055.bmp"
         },
         {
             "Code": "8",
-            "Width": 47,
-            "Height": 59,
+            "Width": 28,
+            "Height": 36,
             "Filename": "U056.bmp"
         },
         {
             "Code": "9",
-            "Width": 47,
-            "Height": 59,
+            "Width": 28,
+            "Height": 36,
             "Filename": "U057.bmp"
         },
         {
             "Code": "\u00b0",
-            "Width": 47,
-            "Height": 58,
+            "Width": 28,
+            "Height": 35,
             "Filename": "U176.bmp"
         }
     ]
